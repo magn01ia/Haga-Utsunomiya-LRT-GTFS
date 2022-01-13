@@ -23,6 +23,6 @@ QGIS
 ## 参考リンク
 [静的バス情報フォーマット（GTFS-JP)仕様書(第3版)(国土交通省)](https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_tk_000112.html)
 ## 更新履歴
-20220114shapes.geojson追加
+20220114shapes.geojson追加  
 20220113shapes.txt(宇都宮→芳賀及び芳賀→宇都宮)追加  
 20220113リポジトリ作成
