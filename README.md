@@ -25,9 +25,4 @@ idはとりあえずの所で1000(宇都宮→芳賀)1001(芳賀→宇都宮)に
 [静的バス情報フォーマット（GTFS-JP)仕様書(第3版)(国土交通省)](https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_tk_000112.html)  
 [宇都宮市](https://www.city.utsunomiya.tochigi.jp/index.html)  
 [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright)   
-shapes.txtの作成に使用。  
-## 更新履歴
-20220722stops.txt、stops.geojson追加  
-20220114shapes.geojson追加  
-20220113shapes.txt  
-20220113リポジトリ作成
+shapes.txtの作成に使用。 
