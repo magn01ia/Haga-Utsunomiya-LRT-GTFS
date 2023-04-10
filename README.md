@@ -1,7 +1,7 @@
 # Haga-Utsunomiya-LRT-GTFS  
 ![125547](https://user-images.githubusercontent.com/84883260/220530957-b5af260b-676c-41cc-b8d5-4171e3ea5aa0.png)  
 芳賀・宇都宮LRTのGTFSデータを趣味で作っています。  
-順次更新中です、閲覧の際には下記の注意点を必ずお読みください。  
+順次更新中です、  
 上図は作成したデータを株式会社MIERUNE様より公開されているQGISプラグインGTFS-GOを利用し可視化したものです。  
 背景地図は地理院地図ベクターを使用しています。
 ## 注意点  
