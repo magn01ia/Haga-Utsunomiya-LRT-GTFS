@@ -3,11 +3,16 @@
 芳賀・宇都宮LRTのGTFSデータを趣味で作っています。  
 順次更新中です、  
 上図は作成したデータを株式会社MIERUNE様より公開されているQGISプラグインGTFS-GOを利用し可視化したものです。  
-背景地図は地理院地図ベクターを使用しています。
+背景地図は地理院地図ベクターを使用しています。  
+
+ 
+Cesiumを使用してマップを作成しました  
+↓  
+[Haga-Utsunomiya-LRT-Cesium ](https://github.com/magn01ia/Haga-Utsunomiya-LRT-Cesium)  
+
 ## 注意点  
 本レポジトリはmagn01iaが趣味の範囲で開通予定の芳賀・宇都宮LRTのGTFSデータを作成しているものです。  
 事業本体とはなんら関係性のない個人のものですので十分ご注意下さい。   
-改善点等ございましたら是非ご意見ください。
 ## GTFS
 GTFS(General Transit Feed Specification)とは公共交通に関する世界標準のフォーマットです、GTFSデータには2種類あり、GTFS-Staticと呼ばれるルートや停留所、時刻表などの静的データとGTFS-Realtimeと呼ばれる運行状況や乗車人数などの動的データがあります。本リポジトリはGTFS-Staticになります。 
 ## 各データについての説明
