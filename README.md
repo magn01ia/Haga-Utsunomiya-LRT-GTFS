@@ -10,7 +10,7 @@ Cesiumを使用してマップを作成しました
 ↓  
 [Haga-Utsunomiya-LRT-Cesium ](https://github.com/magn01ia/Haga-Utsunomiya-LRT-Cesium)  
 
-## ⚡  
+## ⚡20231115⚡    
 LRTの運行が開始され、時刻表情報なども公開されたことから、これまでダミーで入力していたデータを本格的に更新中です。  
 
 ## 注意点  
