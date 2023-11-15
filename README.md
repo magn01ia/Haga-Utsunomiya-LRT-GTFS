@@ -10,6 +10,9 @@ Cesiumを使用してマップを作成しました
 ↓  
 [Haga-Utsunomiya-LRT-Cesium ](https://github.com/magn01ia/Haga-Utsunomiya-LRT-Cesium)  
 
+## ⚡  
+LRTの運行が開始され、時刻表情報なども公開されたことから、これまでダミーで入力していたデータを本格的に更新中です。  
+
 ## 注意点  
 本レポジトリはmagn01iaが趣味の範囲で開通予定の芳賀・宇都宮LRTのGTFSデータを作成しているものです。  
 事業本体とはなんら関係性のない個人のものですので十分ご注意下さい。   
