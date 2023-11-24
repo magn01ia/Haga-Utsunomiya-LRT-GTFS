@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+宇都宮ライトレール株式会社,https://www.miyarail.co.jp/,ja,20231123,20241122,2023/11/16改正-見える化ver2.6e

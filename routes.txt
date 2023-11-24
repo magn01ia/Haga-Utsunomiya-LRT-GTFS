@@ -1,3 +1,2 @@
-route_id,agency_id,route_short_name,route_long_name
-1000,000000000,芳賀・宇都宮LRT,宇都宮芳賀ライトレール線
-1001,000000000,芳賀・宇都宮LRT,宇都宮芳賀ライトレール線
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+1,1060001027696 ,,,,0,,
